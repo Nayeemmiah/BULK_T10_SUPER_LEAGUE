@@ -1,17 +1,19 @@
 {
     "squadName": "S.D.ROYAL CRICKET TEAM T10",
     "players": [
+        { "name": "Shamim", "image": "0.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "Head coach" },
         { "name": "Harez", "image": "1.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "Batsman" },
         { "name": "Saklain(C)", "image": "2.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "All-rounder" },
         { "name": "Naimur", "image": "3.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "Bowler" },
         { "name": "Shuvo", "image": "4.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "All-rounder" },
-        { "name": "Nayeem(WK)", "image": "5.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "Wicketkeeper" },
+        { "name": "Nayeem(WK)", "image": "5.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "All-rounder" },
         { "name": "Murshedul", "image": "6.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "Bowler" },
         { "name": "Rajib", "image": "7.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "Batsman" },
         { "name": "Ramjan", "image": "8.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "All-rounder" },
         { "name": "Joynal", "image": "9.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "Batsman" },
         { "name": "Amirul", "image": "10.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "Bowler" },
         { "name": "Kongkon", "image": "11.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "Wicketkeeper" },
-        { "name": "Sajedul", "image": "12.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "All-rounder" }
+        { "name": "Sajedul", "image": "12.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "All-rounder" },
+        { "name": "Nahid", "image": "13.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "All-rounder" }
     ]
 }
