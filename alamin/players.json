@@ -1,0 +1,22 @@
+{
+  "squadName": "IF YOU CAN STOP CRICKET TEAM",
+  "players": [
+    { "name": "Emon(C)", "image": "1.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "Batsman & WK" },
+    { "name": "Bulbul", "image": "2.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "Batsman" },
+    { "name": "Sabu", "image": "3.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "All-rounder" },
+    { "name": "Majharul", "image": "4.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "All-rounder" },
+    { "name": "Jahid", "image": "5.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "All-rounder" },
+    { "name": "Rokonuzzaman", "image": "6.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "Batsman" },
+    { "name": "Nayeem", "image": "7.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "All-rounder" },
+    { "name": "Saiful", "image": "8.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "Batsman" },
+    { "name": "Al amin", "image": "9.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "Batsman" },
+    { "name": "Kawsar ali", "image": "10.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "Batsman" },
+    { "name": "Kobir", "image": "11.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "Bowler" },
+    { "name": "Kawsar", "image": "12.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "Batsman" },
+    { "name": "Belal", "image": "13.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "Batsman" },
+    { "name": "Tarek", "image": "14.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "Batsman" },
+    { "name": "Abdullah", "image": "15.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "Batsman" },
+    { "name": "Kawsar", "image": "16.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "playerType": "Batsman" }
+   
+  ]
+}
