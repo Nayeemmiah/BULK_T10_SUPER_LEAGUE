@@ -1,7 +1,7 @@
 {
     "squadName": "BULK T10 SUPER LEAGUE",
     "players": [
-        { "name": "Liton Mia (President)", "image": "1.jpg", "runs": 0১, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "bulkT10": "Organizer", "teamName": "Organizer" },
+        { "name": "Liton Mia (President)", "image": "1.jpg", "runs": 01, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "bulkT10": "Organizer", "teamName": "Organizer" },
         { "name": "Alamin Sarkar", "image": "2.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "bulkT10": "", "teamName": "If you can stop Cricket Team" },
         { "name": "Sahid Hasan", "image": "3.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "bulkT10": "", "teamName": "Kings of Bulk Cricket Team" },
         { "name": "Naimur Rahman", "image": "4.jpg", "runs": 0, "fours": 0, "sixes": 0, "manOfTheMatch": 0, "manOfTheSeries": 0, "totalMatch": 0, "bulkT10": "", "teamName": "S.D.ROYAL CRICKET TEAM T10" }
